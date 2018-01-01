@@ -1,0 +1,10 @@
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\bin\Debug\財務gogo.exe.config
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\bin\Debug\財務gogo.exe
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\bin\Debug\財務gogo.pdb
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.csprojResolveAssemblyReference.cache
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.Form1.resources
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.Properties.Resources.resources
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.csproj.GenerateResource.Cache
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.csproj.CoreCompileInputs.cache
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.exe
+c:\users\gibso\documents\visual studio 2017\Projects\財務gogo\財務gogo\obj\Debug\財務gogo.pdb
